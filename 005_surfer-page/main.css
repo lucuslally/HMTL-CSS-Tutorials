@@ -1,0 +1,24 @@
+html {
+    background-color: blue;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+body {
+    background-color: green;
+    border: solid black 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: ridge 20px gold;
+}
+
+#primary {
+    color: blue;
+}
+#secondary {
+    color: red;
+}
