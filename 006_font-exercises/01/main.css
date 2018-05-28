@@ -1,0 +1,13 @@
+div {
+    margin: 0 auto;
+    border: black;
+    width: 30%;
+    background-color: lightcoral;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 5rem;
+    text-transform: capitalize;
+    line-height: 1px;
+    text-shadow: 5px 0 0 lightcoral;
+}

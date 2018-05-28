@@ -1,0 +1,12 @@
+ /* html {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+} */
+/* p {
+    text-transform: uppercase;
+    font-style: italic;
+    font-kerning: auto;
+} */
+h1 {
+    text-shadow: 2px 2px 2px lightcoral;
+}
